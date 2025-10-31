@@ -1,0 +1,5 @@
+.env
+*.env
+.env.local
+
+data/The-Gale-Encyclopedia-of-Medicine.pdf
